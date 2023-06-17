@@ -1,0 +1,12 @@
+{
+    "clientVersionCode": 102,
+    "gameFilesVersionCode": 101,
+    "URL_GAME_FILES" : "https://www.dropbox.com/s/g2raduefu5r88d0/game.zip?dl=1",
+    "URL_GAME_FILES_UPD" : "https://dl.ru-state.online/gamefiles/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://",
+    "URL_YOUTUBE": "https://t.me/",
+    "URL_FORUM": "https://",
+    "URL_DONATE": "https://",
+    "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
+}
